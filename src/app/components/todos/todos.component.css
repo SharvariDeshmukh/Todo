@@ -1,0 +1,7 @@
+.completedTodo{
+    color : darkgrey;
+    text-decoration: line-through;
+}
+.svg-inline--fa :hover{
+    color :grey !important;
+}
